@@ -1,3 +1,9 @@
+<?php 
+
+include("../PHP/protect.php");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,5 +14,6 @@
 </head>
 <body>
     <h2>Oie</h2>
+    <button> <a href="../PHP/logout.php">SAIR</a></button>
 </body>
 </html>
